@@ -1,7 +1,7 @@
 <?php
 require_once 'include.php';
 
-(new Promise(function (ccp\Resolve $resolve, ccp\Reject $reject)
+(new ccp\Promise(function (ccp\Resolve $resolve, ccp\Reject $reject)
 {
   $resolve('test');
 }))->then(function ($value)
