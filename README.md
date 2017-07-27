@@ -26,4 +26,4 @@ In PHP, we will use more or less to the asynchronous programming, but it brings 
 
 # Translation switch
 
-- [中文翻译.MD](https://github.com/whiteCcinn/ccp/edit/master/ZH-README.md)
+- [中文翻译.MD](https://github.com/whiteCcinn/ccp/blob/master/ZH-README.md)
