@@ -26,4 +26,4 @@ PHP + Coroutine + Promise
 
 # 翻译切换
 
-- [English.MD](https://github.com/whiteCcinn/ccp/edit/master/README.md)
+- [English.MD](https://github.com/whiteCcinn/ccp/blob/master/README.md)
